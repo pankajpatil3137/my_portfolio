@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my_portfolio%20/static/css/main.76926bc3.css",
-    "main.js": "/my_portfolio%20/static/js/main.ef74025a.js",
-    "static/js/415.4d6acbeb.chunk.js": "/my_portfolio%20/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/my_portfolio%20/static/js/787.1ed0c42c.chunk.js",
-    "static/media/home-main.svg": "/my_portfolio%20/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/my_portfolio%20/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Pankajk_Patil_Fresher.pdf": "/my_portfolio%20/static/media/Pankajk_Patil_Fresher.afc41aa3d14716bb6283.pdf",
-    "static/media/home-bg.jpg": "/my_portfolio%20/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/2.png": "/my_portfolio%20/static/media/2.cf7d6eb35e82d97675b1.png",
-    "static/media/avatar.svg": "/my_portfolio%20/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/my_portfolio%20/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/my_portfolio%20/index.html",
-    "main.76926bc3.css.map": "/my_portfolio%20/static/css/main.76926bc3.css.map",
-    "main.ef74025a.js.map": "/my_portfolio%20/static/js/main.ef74025a.js.map",
-    "415.4d6acbeb.chunk.js.map": "/my_portfolio%20/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/my_portfolio%20/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/my_portfolio/static/css/main.f3bdb1d8.css",
+    "main.js": "/my_portfolio/static/js/main.5db32f2c.js",
+    "static/js/415.4d6acbeb.chunk.js": "/my_portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my_portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.svg": "/my_portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/my_portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Pankajk_Patil_Fresher.pdf": "/my_portfolio/static/media/Pankajk_Patil_Fresher.afc41aa3d14716bb6283.pdf",
+    "static/media/home-bg.jpg": "/my_portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/2.png": "/my_portfolio/static/media/2.cf7d6eb35e82d97675b1.png",
+    "static/media/avatar.svg": "/my_portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/my_portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/my_portfolio/index.html",
+    "main.f3bdb1d8.css.map": "/my_portfolio/static/css/main.f3bdb1d8.css.map",
+    "main.5db32f2c.js.map": "/my_portfolio/static/js/main.5db32f2c.js.map",
+    "415.4d6acbeb.chunk.js.map": "/my_portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my_portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76926bc3.css",
-    "static/js/main.ef74025a.js"
+    "static/css/main.f3bdb1d8.css",
+    "static/js/main.5db32f2c.js"
   ]
 }
